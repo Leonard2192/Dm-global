@@ -1,0 +1,51 @@
+.uk-flex-space-between {
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.uk-flex-middle {
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.uk-flex {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.filter-wrapped .perpage {
+     display: inline-block;
+}
+
+.filter-wrapped {
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-bottom: 0 !important;
+    font-size: 13px;
+    border-radius: 0;
+    height: 32px;
+}
+
+.filter-wrapped .form-control {
+    height: 32px;
+    max-width: 200px;
+    font-size: 13px;
+}
+
+.mr10 {
+     margin-right: 10px;
+}
+#side-menu {
+     position: fixed;
+     transform: translateZ(0);
+}
+
+.row border-bottom {
+    position: fixed;
+    transform: translateZ(0);
+}
+
